@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Arpi33
-- 👀 I’m interested in data analysis , web development 
-- 🌱 I’m currently learning big data analysis , machine learning  and devOps
+- 👋 Hi, I have completed my graduation in Data Science
+- 👀 I’m interested in data analysis, deep learning, big data management, hadoop, web development 
+- 🌱 I enjoy learning new things every day 
 
 
 <!---
