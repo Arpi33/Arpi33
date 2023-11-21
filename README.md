@@ -1,5 +1,5 @@
 - 👋 Hi, I have completed my graduation in Data Science
-- 👀 I’m interested in data analysis, deep learning, big data management, hadoop, web development 
+- 👀 I’m interested in machine learning, deep learning, computer vision, Natural Language Processing 
 - 🌱 I enjoy learning new things every day 
 
 
